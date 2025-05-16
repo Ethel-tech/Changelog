@@ -32,6 +32,7 @@
 .changelog-date {
   display: flex;
   flex-direction: column;
+  color: rgba(37, 37, 37, 0.696);
 }
 .changelog-date .date {
   display: flex;
